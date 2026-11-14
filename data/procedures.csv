@@ -1,0 +1,14 @@
+cpt_code,description,service_type,standard_charge
+99213,"Office visit, established patient, low complexity",Office Visit,150
+99214,"Office visit, established patient, moderate complexity",Office Visit,220
+99215,"Office visit, established patient, high complexity",Office Visit,300
+99203,"Office visit, new patient, low complexity",Office Visit,200
+71046,"Chest X-ray, 2 views",Imaging,320
+72148,MRI lumbar spine without contrast,Imaging,1200
+74177,CT abdomen and pelvis with contrast,Imaging,1500
+93000,"Electrocardiogram (ECG), complete",Cardiology,210
+93306,"Echocardiogram, complete",Cardiology,950
+97110,"Therapeutic exercises, 15 minutes",Physical Therapy,180
+97140,"Manual therapy, 15 minutes",Physical Therapy,160
+80053,Comprehensive metabolic panel,Lab,90
+85025,Complete blood count (CBC),Lab,60
